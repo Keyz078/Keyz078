@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keyz078
 - 👀 I’m interested in computer network end 3D Printing
-- 🌱 I’m currently learning cloud engineer
+- 🌱 I’m currently learning cloud engineer and working on cloud computing such as openstack administrator
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me just email me at luqinthar@gmail.com
 
