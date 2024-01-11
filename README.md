@@ -1,6 +1,6 @@
 - 👋 Hi, I’m luqinthar sudarsono A.K.A @Keyz078
-- 👀 I’m interested in computer network end 3D Printing
-- 🌱 I’m currently learning cloud engineer and working on cloud computing such as openstack administrator
+- 👀 I’m interested in cloud computing and 3D Printing
+- 🌱 I’m currently exploring private cloud computing such as openstack
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me just email me at luqinthar@gmail.com
 
